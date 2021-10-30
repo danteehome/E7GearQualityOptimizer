@@ -1,0 +1,14 @@
+{
+    "Shuna" :{
+        "name": "Shuna",
+        "attack": "649",
+        "Health": "5254",
+        "Speed": "103",
+        "Defense": "694",
+        "Crit": "15",
+        "Cdamage": "150",
+        "DAC": "5",
+        "Effectiveness": "0",
+        "EffectiveRes": "18"
+    }
+}
